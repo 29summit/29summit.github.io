@@ -33,7 +33,7 @@ body {
 }
 
 body {
-  background: url(../img/cover.jpg) no-repeat center center fixed;
+  background-Color: #2B2B2B;
   background-size: cover;
   color: #fff;
   text-align: center;
